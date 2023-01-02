@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Swift and SwiftUI and iOS Development and some React.
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on iOS app related stuff
-- 📫 How to reach me ... Twitter.
+- 📫 How to reach me ... Twitter. https://twitter.com/royflyinghigh
 
 More Soon!
 
